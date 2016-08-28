@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         int iRandomColor = r.nextInt();
 
         topLayout.setBackgroundColor(iRandomColor);
+
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
